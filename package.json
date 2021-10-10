@@ -1,0 +1,14 @@
+{
+  "name": "proyecto1",
+  "version": "1.0.0",
+  "description": "Aprendiendo node JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iFlameMx",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
